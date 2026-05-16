@@ -40,7 +40,7 @@
      <!-- Contribuciones de los integrantes:
             - Herrea Geremias: Investigación y redacción de la Introducción y revisión final.
             - Amaya Maciel: Redacción de la sección Metodología y ejemplos.
-            - Diaz Joaquin: Maquetación HTML y.
+            - Diaz Joaquin: Maquetación HTML.
             - Bottone Giovanni: Análisis crítico y ejemplos de reseñas.
             - Almaraz Gaston: Estructura de puntuación y formato de reseñas.
             - Lizondo Joaquin: Integración final y pruebas en navegador.
